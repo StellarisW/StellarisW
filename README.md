@@ -17,7 +17,6 @@
 
 ## 🚀 Languages and Tools:
 - 💻 &nbsp;
-<p>
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" alt="C++"
          alt="aws" width="40" height="40"/>
@@ -38,7 +37,6 @@
          width="40"
          height="40">
   </a>
-</p>
 
 ## Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stellarisw&repo=Christmas-Tree)](https://github.com/StellarisW/Christmas-Tree)
