@@ -16,7 +16,7 @@
   - Watch the game live.
 
 ## 🚀 Languages and Tools:
-- 💻 &nbsp;
+- 💻 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" alt="C++"
          alt="aws" width="30" height="30"/>
