@@ -41,6 +41,7 @@
          width="30"
          height="30">
   </a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
 - 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -54,7 +55,6 @@
        width="30"
        height="30">
   </a>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
   <a href="https://www.javascript.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"
        alt="JavaScript"
