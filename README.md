@@ -6,8 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently ~~working~~ studying in **Chongqing**.
-- 🌱 I’m currently learning 
--       **Web Development** **distributed** , **micro service** and **big data**.
+- 🌱 I’m currently learning **Web Development** **distributed** , **micro service** and **big data**.
 - 💬 Ask me about C++ , Golang technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
