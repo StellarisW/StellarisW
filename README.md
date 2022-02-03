@@ -14,10 +14,9 @@
   - Play games, especially CSGO games.
   - Watch the game live.
 
-
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🚀 Tech Stack:
- <img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg"
