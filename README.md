@@ -15,7 +15,6 @@
   - Watch the game live.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🚀 Tech Stack:
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,6 +29,7 @@
          width="30"
          height="30"/>
   </a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
          alt="Java"
