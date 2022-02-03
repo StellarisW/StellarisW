@@ -15,7 +15,7 @@
   - Play games, especially CSGO games.
   - Watch the game live.
 
-## 🚀 Languages and Tools:
+## 🚀 Tech Stack:
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg"
@@ -91,7 +91,37 @@
        width="30"
        height="30">
   </a>
-
+- 🔧 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg"
+       alt="Visual Studio"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.jetbrains.com/go/" target="_blank">
+   <img src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/goland.svg"
+       alt="Goland"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/intellij-idea-1.svg"
+       alt="IDEA"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"
+       alt="Matlab"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank">
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/mathematica.svg"
+       alt="Mathematica"
+       width="30"
+       height="30">
+  </a>
 ## Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stellarisw&repo=Christmas-Tree)](https://github.com/StellarisW/Christmas-Tree)
 
