@@ -12,6 +12,9 @@
   - Play games, especially LOL mobile games.
   - Watch the game live.
 
+## Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
 [![个人博客](https://img.shields.io/badge/-个人博客（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://duktig.cn/)
