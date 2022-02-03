@@ -54,13 +54,13 @@
        height="30">
   </a>
   <a href="https://www.javascript.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/javascript/javascript-vertical.svg"
+   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"
        alt="JavaScript"
        width="30"
        height="30">
   </a>
   <a href="https://www.nginx.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nginx/nginx-icon.svg"
+   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"
        alt="Nginx"
        width="30"
        height="30">
