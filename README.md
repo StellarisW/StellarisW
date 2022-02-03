@@ -18,11 +18,13 @@
 ## 🚀 Languages and Tools:
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" alt="C++"
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg"
+         alt="C++"
          alt="aws" width="30" height="30"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
-    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_csharp.svg" alt="C#"
+    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_csharp.svg"
+         alt="C#"
          width="30"
          height="30"/>
   </a>
@@ -33,10 +35,37 @@
          height="30">
   </a>
   <a href="https://go.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt=""
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
+         alt="go"
          width="30"
          height="30">
   </a>
+- 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+       alt="HTML5"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+       alt="CSS3"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/javascript/javascript-vertical.svg"
+       alt="JavaScript"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.nginx.com/" target="_blank">
+   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nginx/nginx-icon.svg"
+       alt="Nginx"
+       width="30"
+       height="30">
+  </a>
+
 
 ## Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stellarisw&repo=Christmas-Tree)](https://github.com/StellarisW/Christmas-Tree)
