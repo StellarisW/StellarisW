@@ -4,7 +4,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently ~~working~~ studying in **Chongqing**.
-- 🌱 I’m currently learning **Web Development** **distributed** , **micro service** and **big data**.
+- 🌱 I’m currently learning 
+-       **Web Development** **distributed** , **micro service** and **big data**.
 - 💬 Ask me about C++ , Golang technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
@@ -30,3 +31,6 @@
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## asd
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
