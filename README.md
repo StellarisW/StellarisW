@@ -1,6 +1,7 @@
-# Hi,I'm lengcharles 👋
 
-<!-- ## 👋 &nbsp;Hey there! I'm lengcharles -->
+
+<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm lengcharle</h2>
+
 后端开发工程师
 
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
@@ -13,6 +14,9 @@
   - “Hardcore fiction reader”.
   - Play games, especially CSGO games.
   - Watch the game live.
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🚀 Tech Stack:
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
