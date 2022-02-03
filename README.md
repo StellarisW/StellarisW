@@ -65,7 +65,32 @@
        width="30"
        height="30">
   </a>
-
+- 🛢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       alt="MySQL"
+       width="30"
+       height="30">
+  </a>
+- ⚙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
+       alt="GitHub"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
+       alt="Git"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"
+       alt="Markdown"
+       width="30"
+       height="30">
+  </a>
 
 ## Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stellarisw&repo=Christmas-Tree)](https://github.com/StellarisW/Christmas-Tree)
