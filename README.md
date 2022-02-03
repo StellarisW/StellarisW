@@ -16,26 +16,26 @@
   - Watch the game live.
 
 ## 🚀 Languages and Tools:
-### 💻 &nbsp;
+- 💻 &nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" alt="C++"
-         alt="aws" width="40" height="40"/>
+         alt="aws" width="30" height="30"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
     <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_csharp.svg" alt="C#"
-         width="40"
-         height="40"/>
+         width="30"
+         height="30"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
          alt="Java"
-         width="40"
-         height="40">
+         width="30"
+         height="30">
   </a>
   <a href="https://go.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt=""
-         width="40"
-         height="40">
+         width="30"
+         height="30">
   </a>
 
 ## Repos
