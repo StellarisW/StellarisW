@@ -15,6 +15,10 @@
   - Play games, especially CSGO games.
   - Watch the game live.
 
+## 🚀 Languages and Tools:
+- 💻 &nbsp;
+- 
+
 ## Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stellarisw&repo=Christmas-Tree)](https://github.com/StellarisW/Christmas-Tree)
 
