@@ -13,7 +13,7 @@
   - Watch the game live.
 
 ## Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/StellarisW/Christmas-Tree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stellaris&repo=Christmas-Tree)](https://github.com/StellarisW/Christmas-Tree)
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
