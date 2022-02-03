@@ -29,7 +29,6 @@
          width="30"
          height="30"/>
   </a>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
          alt="Java"
@@ -55,6 +54,7 @@
        width="30"
        height="30">
   </a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
   <a href="https://www.javascript.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"
        alt="JavaScript"
