@@ -33,4 +33,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## asd
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
