@@ -99,6 +99,12 @@
        width="30"
        height="30">
   </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+       alt="Markdown"
+       width="30"
+       height="30">
+  </a>
 - 🔧 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg"
