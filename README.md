@@ -29,18 +29,18 @@
          width="30"
          height="30"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-         alt="Java"
-         width="30"
-         height="30">
-  </a>
   <a href="https://go.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
          alt="go"
          width="30"
          height="30">
     <img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+         alt="Java"
+         width="30"
+         height="30">
   </a>
     <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
@@ -92,8 +92,8 @@
        width="30"
        height="30">
   </a>
-  <a href="[https://www.docker.com/](https://kubernetes.io/)" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
        alt="Kubernetes"
        width="30"
        height="30">
