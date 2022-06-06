@@ -42,6 +42,11 @@
          height="30">
     <img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
   </a>
+    <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+         alt="Python"
+         alt="aws" width="30" height="30"/>
+  </a>
 - 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -61,12 +66,6 @@
        width="30"
        height="30">
   </a>
-  <a href="https://www.nginx.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"
-       alt="Nginx"
-       width="30"
-       height="30">
-  </a>
 - 🛢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -81,27 +80,21 @@
        height="30">
   </a>
 - ⚙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
-       alt="GitHub"
+  <a href="https://www.nginx.com/" target="_blank">
+   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"
+       alt="Nginx"
        width="30"
        height="30">
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
-       alt="Git"
-       width="30"
-       height="30">
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"
-       alt="Markdown"
-       width="30"
-       height="30">
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
        alt="Markdown"
+       width="30"
+       height="30">
+  </a>
+  <a href="[https://www.docker.com/](https://kubernetes.io/)" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"
+       alt="Kubernetes"
        width="30"
        height="30">
   </a>
