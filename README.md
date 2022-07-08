@@ -47,7 +47,7 @@ Go后端开发工程师
          alt="Python"
          alt="aws" width="30" height="30"/>
   </a>
-- <img src="assets/gopher.png" height=20px width=15px style="position:relative;top: 3px;left: 2px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- <img src="assets/gopher.png" height=20px width=15px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg"
   alt="C++"
