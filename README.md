@@ -55,17 +55,27 @@ Go后端开发工程师
   </a>
     <a href="https://github.com/gogf/gf" target="_blank">
     <img src="https://goframe.org/statics/image/gf-head-large.png"
-        alt="gin-gonic"
+        alt="GoFrame"
         alt="aws" width="30" height="30"/>
   </a>
     <a href="https://github.com/zeromicro/go-zero" target="_blank">
     <img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/go-zero.png"
-        alt="gin-gonic"
+        alt="go-zero"
         alt="aws" width="30" height="30"/>
   </a>
     <a href="https://github.com/traefik/traefik" target="_blank">
     <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png"
-        alt="gin-gonic"
+        alt="traefik"
+        alt="aws" width="30" height="30"/>
+  </a>
+    <a href="https://github.com/jaegertracing/jaeger" target="_blank">
+    <img src="https://www.jaegertracing.io/img/jaeger-vector.svg"
+        alt="jaeger"
+        alt="aws" width="30" height="30"/>
+  </a>
+    <a href="https://github.com/hashicorp/consul" target="_blank">
+    <img src="https://raw.githubusercontent.com/hashicorp/consul/main/website/public/img/favicon.ico"
+        alt="consul"
         alt="aws" width="30" height="30"/>
 - 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/html/" target="_blank">
