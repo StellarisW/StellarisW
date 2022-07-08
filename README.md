@@ -1,7 +1,7 @@
 
 # Hey there! I'm StellarisW <img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
 
-后端开发工程师
+GO后端开发工程师
 
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
