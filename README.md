@@ -47,6 +47,26 @@ Go后端开发工程师
          alt="Python"
          alt="aws" width="30" height="30"/>
   </a>
+- <img src="assets/gopher.png" height=20px width=15px style="position:relative;top: 3px;left: 2px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gin-gonic/gin" target="_blank">
+    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
+        alt="gin-gonic"
+        alt="aws" width="30" height="30"/>
+  </a>
+    <a href="https://github.com/gogf/gf" target="_blank">
+    <img src="https://goframe.org/statics/image/gf-head-large.png"
+        alt="gin-gonic"
+        alt="aws" width="30" height="30"/>
+  </a>
+    <a href="https://github.com/zeromicro/go-zero" target="_blank">
+    <img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/go-zero.png"
+        alt="gin-gonic"
+        alt="aws" width="30" height="30"/>
+  </a>
+    <a href="https://github.com/traefik/traefik" target="_blank">
+    <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png"
+        alt="gin-gonic"
+        alt="aws" width="30" height="30"/>
 - 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
