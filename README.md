@@ -128,6 +128,12 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
+  <a href="https://graphql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg"
+  alt="GraphQL"
+  width="30"
+  height="30">
+  </a>
 - 🔧 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg"
