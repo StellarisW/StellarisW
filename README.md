@@ -185,5 +185,5 @@ Go后端开发工程师
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## asd
+## Activities
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
