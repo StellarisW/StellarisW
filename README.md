@@ -73,10 +73,6 @@ Go后端开发工程师
         alt="jaeger"
         alt="aws" width="30" height="30"/>
   </a>
-    <a href="https://github.com/hashicorp/consul" target="_blank">
-    <img src="https://raw.githubusercontent.com/hashicorp/consul/main/website/public/img/favicon.ico"
-        alt="consul"
-        alt="aws" width="30" height="30"/>
 - 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -109,6 +105,12 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
+  <a href="https://elastic.co/" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/elastic.svg"
+       alt="Elastic"
+       width="30"
+       height="30">
+  </a>
 - ⚙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.nginx.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"
@@ -133,6 +135,11 @@ Go后端开发工程师
   alt="GraphQL"
   width="30"
   height="30">
+  </a>
+  <a href="https://github.com/hashicorp/consul" target="_blank">
+  <img src="https://raw.githubusercontent.com/hashicorp/consul/main/website/public/img/favicon.ico"
+  alt="consul"
+  alt="aws" width="30" height="30"/>
   </a>
 - 🔧 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
