@@ -105,9 +105,21 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
-  <a href="https://elastic.co/" target="_blank">
+  <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/elastic.svg"
+       alt="RabbitMQ"
+       width="30"
+       height="30">
+  </a>
+   <a href="https://elastic.co/" target="_blank">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/rabbitmq.svg"
        alt="Elastic"
+       width="30"
+       height="30">
+  </a>
+   <a href="hhttps://kafka.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg"
+       alt="Kafka"
        width="30"
        height="30">
   </a>
