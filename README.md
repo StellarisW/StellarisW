@@ -106,13 +106,13 @@ Go后端开发工程师
        height="30">
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/elastic.svg"
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/rabbitmq.svg"
        alt="RabbitMQ"
        width="30"
        height="30">
   </a>
    <a href="https://elastic.co/" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/rabbitmq.svg"
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/elastic.svg"
        alt="Elastic"
        width="30"
        height="30">
