@@ -184,13 +184,6 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
-## Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stellarisw&repo=JD-WEB)](https://github.com/StellarisW/JD-WEB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stellarisw&repo=Christmas-Tree)](https://github.com/StellarisW/Christmas-Tree)
-
-## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=stellarisw&color=green)
-[![Github](https://img.shields.io/github/followers/stellarisw?label=Github&style=social)](https://github.com/stellarisw)
 
 <!-- [![个人博客](https://img.shields.io/badge/-个人博客（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://duktig.cn/)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/duktig666)
@@ -201,8 +194,12 @@ Go后端开发工程师
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=stellarisw&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
+## Activities
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Activities
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Follow Me
+![访问个人主页数量](https://komarev.com/ghpvc/?username=stellarisw&color=green)
+[![Github](https://img.shields.io/github/followers/stellarisw?label=Github&style=social)](https://github.com/stellarisw)
