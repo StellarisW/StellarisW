@@ -197,8 +197,12 @@ Go后端开发工程师
 ## Activities
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Highlight Projects
+
+[![StellarisW's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gojson&show_icons=true&line_height=27&title_color=3080ed&text_color=434d58&icon_color=6aa6f8)](https://github.com/StellarisW/gojson)
+
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisW)](https://github.com/StellarisW?tab=repositories)
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=stellarisw&color=green)
