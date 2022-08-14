@@ -92,6 +92,12 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
+   <a href="https://www.typescriptlang.org/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+       alt="TypeScript"
+       width="30"
+       height="30">
+  </a>
 - 🛢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -153,6 +159,25 @@ Go后端开发工程师
   alt="consul"
   alt="aws" width="30" height="30"/>
   </a>
+- 📟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"
+       alt="Matlab"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank">
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/mathematica.svg"
+       alt="Mathematica"
+       width="30"
+       height="30">
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg"
+       alt="PyTorch"
+       width="30"
+       height="30">
+  </a>
 - 🔧 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg"
@@ -172,18 +197,7 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"
-       alt="Matlab"
-       width="30"
-       height="30">
-  </a>
-  <a href="https://www.wolfram.com/mathematica/" target="_blank">
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/mathematica.svg"
-       alt="Mathematica"
-       width="30"
-       height="30">
-  </a>
+
 
 <!-- [![个人博客](https://img.shields.io/badge/-个人博客（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://duktig.cn/)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/duktig666)
