@@ -19,12 +19,12 @@ Go后端开发工程师
 ## 🚀 Tech Stack:
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg"
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg"
          alt="C++"
          alt="aws" width="30" height="30"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
-    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_csharp.svg"
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp.svg "
          alt="C#"
          width="30"
          height="30"/>
