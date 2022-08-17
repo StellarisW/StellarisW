@@ -162,7 +162,7 @@ Go后端开发工程师
   </a>
   </a>
   <a href="https://www.apolloconfig.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/apolloconfig/apollo@master/doc/images/logo/logo-simple.png"
+  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/apollo.svg"
     alt="Apollo"
     width="30"
     height="30"/>
