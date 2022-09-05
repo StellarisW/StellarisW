@@ -228,15 +228,15 @@ Go后端开发工程师
 ## 📱 Highlight Projects
 
 <a href="https://github.com/StellarisW/gojson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gojson&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gojson&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="300px"/>
 </a>
 
 <a href="https://github.com/gocybee/cqupt-clock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=gocybee&repo=cqupt-clock&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=gocybee&repo=cqupt-clock&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="300px"/>
 </a>
 
 <a href="https://github.com/StellarisW/gohu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gohu&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gohu&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="300px"/>
 </a>
 
 ## 📚 Languages
