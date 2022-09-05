@@ -225,20 +225,6 @@ Go后端开发工程师
 ## 📊 Activities
 [![StellarisW's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=minimal)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/StellarisW))
 
-## 📱 Highlight Projects
-
-<a href="https://github.com/StellarisW/gojson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gojson&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="400px"/>
-</a>
-
-<a href="https://github.com/gocybee/cqupt-clock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=gocybee&repo=cqupt-clock&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="400px"/>
-</a>
-
-<a href="https://github.com/StellarisW/gohu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gohu&title_color=3080ed&text_color=434d58&icon_color=6aa6f8" width="400px"/>
-</a>
-
 ## 📚 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisW)](https://github.com/StellarisW?tab=repositories)
 
