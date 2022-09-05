@@ -227,8 +227,9 @@ Go后端开发工程师
 
 ## 📱 Highlight Projects
 
-[![StellarisW's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gojson&show_icons=true&line_height=27&title_color=3080ed&text_color=434d58&icon_color=6aa6f8)](https://github.com/StellarisW/gojson)
-[![StellarisW's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=gocybee&repo=cqupt-clock&show_icons=true&line_height=27&title_color=3080ed&text_color=434d58&icon_color=6aa6f8)](https://github.com/gocybee/cqupt-clock)
+[![StellarisW's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gojson&title_color=3080ed&text_color=434d58&icon_color=6aa6f8)](https://github.com/StellarisW/gojson)
+[![StellarisW's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=gocybee&repo=cqupt-clock&title_color=3080ed&text_color=434d58&icon_color=6aa6f8)](https://github.com/gocybee/cqupt-clock)
+[![StellarisW's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=StellarisW&repo=gohu&title_color=3080ed&text_color=434d58&icon_color=6aa6f8)](https://github.com/StellarisW/gohu)
 
 ## 📚 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisW)](https://github.com/StellarisW?tab=repositories)
