@@ -73,6 +73,12 @@ Go后端开发工程师
         alt="jaeger"
         alt="aws" width="30" height="30"/>
   </a>
+  </a>
+    <a href="https://github.com/casbin/casbin" target="_blank">
+    <img src="https://casbin.io/img/casbin.svg"
+        alt="casbin"
+        alt="aws" width="30" height="30"/>
+  </a>
 - 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
