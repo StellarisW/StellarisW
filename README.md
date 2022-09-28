@@ -6,7 +6,7 @@ Go后端开发工程师
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently ~~working~~ studying in **Chongqing**.
-- 🌱 I’m currently learning **Web Development** **distributed** , **micro service** and **big data**.
+- 🌱 I’m currently learning **Web Development** **distributed** , **micro service** , **big data** and **blockchain**.
 - 💬 Ask me about C++ , Golang technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
@@ -83,6 +83,12 @@ Go后端开发工程师
     <a href="https://github.com/casbin/casbin" target="_blank">
     <img src="https://casbin.io/img/casbin.svg"
         alt="casbin"
+        alt="aws" width="30" height="30"/>
+  </a>
+  </a>
+    <a href="https://github.com/hyperledger/fabric" target="_blank">
+    <img src="https://wiki.hyperledger.org/download/attachments/2392069/fabric?version=1&modificationDate=1540928132000&api=v2"
+        alt="fabric"
         alt="aws" width="30" height="30"/>
   </a>
 - 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
