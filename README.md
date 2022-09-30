@@ -129,6 +129,12 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+       alt="MongoDB"
+       width="30"
+       height="30">
+  </a>
   <a href="https://redis.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
        alt="Redis"
