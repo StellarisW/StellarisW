@@ -264,4 +264,4 @@ Go后端开发工程师
 
 ## 🔗 More
 Wanna know more about me?
-Visit my [blog](https://blog.stellaris.wang)
+Visit my [website](https://stellaris.wang/)
