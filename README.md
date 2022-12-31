@@ -81,7 +81,7 @@ Go后端开发工程师
   </a>
   </a>
     <a href="https://github.com/casbin/casbin" target="_blank">
-    <img src="https://casbin.io/img/casbin.svg"
+    <img src="https://casbin.org/img/casbin.svg"
         alt="casbin"
         alt="aws" width="30" height="30"/>
   </a>
