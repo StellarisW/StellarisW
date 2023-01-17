@@ -253,7 +253,7 @@ Go后端开发工程师
 <img src="https://github-profile-trophy.vercel.app/?username=stellarisw&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
 ## 📊 Activities
-[![StellarisW's github activity graph](https://activity-graph.herokuapp.com/graph?username=stellarisw&theme=minimal)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/StellarisW))
+[![StellarisW's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stellarisw&theme=minimal)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/StellarisW))
 
 ## 📚 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisW)](https://github.com/StellarisW?tab=repositories)
