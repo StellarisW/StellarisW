@@ -11,10 +11,6 @@ Go后端开发工程师
 - ⚡ Fun fact: 
   - Write technical and life articles.
   - “Hardcore fiction reader”.
-  - Play games, especially CSGO games.
-  - Watch the game live.
-
-
 
 ## 🚀 Tech Stack:
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -142,7 +138,7 @@ Go后端开发工程师
        height="30">
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/rabbitmq.svg"
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
        alt="RabbitMQ"
        width="30"
        height="30">
@@ -211,7 +207,7 @@ Go后端开发工程师
        height="30">
   </a>
   <a href="https://www.wolfram.com/mathematica/" target="_blank">
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/mathematica.svg"
+    <img src="https://www.wolfram.com/mathematica/img/overview/intro-spikey.png"
        alt="Mathematica"
        width="30"
        height="30">
@@ -236,7 +232,7 @@ Go后端开发工程师
        height="30">
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/intellij-idea-1.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"
        alt="IDEA"
        width="30"
        height="30">
