@@ -12,7 +12,7 @@ Go后端开发工程师
   - Write technical and life articles.
   - “Hardcore fiction reader”.
 
-## 🚀 Tech Stack:
+## 🚀 Tech Stack
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg"
