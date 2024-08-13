@@ -5,13 +5,12 @@ Go & Rust 后端开发工程师
 
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="right" width="50%" />
 
-- 🔭 I’m currently ~~working~~ studying in **Chongqing**.
+- 🛠️ I'm currently working on **Rust Infra** in Shanghai.
 - 🌱 I’m currently learning **Web Development** **distributed** , **micro service** , **service mesh**.
-- 🛠️ I'm currently working on **Rust Infra**.
 - 💬 Ask me about **Golang**, **Rust** technology.
 - ⚡ Fun fact:
   - Snow Mountain hiking.
-  - PC gameer.
+  - PC gamer.
   - Write technical and life articles.
 
 ## 🚀 Tech Stack
