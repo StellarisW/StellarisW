@@ -1,7 +1,7 @@
 
 # Hey there! I'm StellarisW <img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
 
-Go & Rust 后端开发工程师
+I'm a R&D Engineer focus on Golang & Rust infra technology.
 
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="right" width="50%" />
 
