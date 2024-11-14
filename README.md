@@ -1,11 +1,8 @@
-
-# Hey there! I'm StellarisW <img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
-
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+# Hey there! I'm StellarisW
 
 I'm a R&D Engineer focus on Golang & Rust infra technology.
 
-<img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="right" width="50%" />
+<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
 
 - 🛠️ I'm currently working on **Rust Infra** in Shanghai.
 - 🌱 I’m currently learning **Web Development** **distributed** , **micro service** , **service mesh**.
@@ -14,6 +11,10 @@ I'm a R&D Engineer focus on Golang & Rust infra technology.
   - Snow Mountain hiking.
   - PC gamer.
   - Write technical and life articles.
+
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="right" width="50%" />
 
 ## 🚀 Tech Stack
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
