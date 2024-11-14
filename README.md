@@ -18,12 +18,6 @@ I'm a R&D Engineer focus on Golang & Rust infra technology.
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="top" width="50%" />
 </p>
 
-## 🏆 GitHub Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=stellarisw&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
-
-## 📊 Activities
-[![Stellarisw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stellarisw&theme=minimal)](https://github.com/StellarisW)
-
 ## 🎗 Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=stellarisw&color=green)
 [![Github](https://img.shields.io/github/followers/stellarisw?label=Github&style=social)](https://github.com/stellarisw)
