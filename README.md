@@ -1,8 +1,8 @@
 # Hey there! I'm StellarisW <img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
 
-I'm a R&D Engineer focus on Golang & Rust infra technology.
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
+
+I'm a R&D Engineer focus on Golang & Rust infra technology.
 
 - 🛠️ I'm currently working on **Rust Infra** in Shanghai.
 - 💬 Ask me about **Golang**, **Rust** technology.
