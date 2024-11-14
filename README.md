@@ -14,7 +14,7 @@ I'm a R&D Engineer focus on Golang & Rust infra technology.
 
 <p align="left">
 <img src="/github-metrics.svg" alt="Metrics" width="400">
-<img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="center" width="50%" />
 </p>
 
 
