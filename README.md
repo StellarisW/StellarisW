@@ -1,4 +1,4 @@
-# Hey there! I'm StellarisW <img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="right"/>
+# Hey there! I'm StellarisW <img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
 
 I'm a R&D Engineer focus on Golang & Rust infra technology.
 
@@ -12,9 +12,12 @@ I'm a R&D Engineer focus on Golang & Rust infra technology.
   - PC gamer.
   - Write technical and life articles.
 
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-
+<p align="left">
+<img src="/github-metrics.svg" alt="Metrics" width="400">
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="right" width="50%" />
+</p>
+
+
 
 ## 🚀 Tech Stack
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
