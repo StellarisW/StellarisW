@@ -11,6 +11,7 @@ I'm a R&D Engineer focus on Golang & Rust infra technology.
   - PC gamer.
   - Write technical and life articles.
 
+
 <p align="left">
 <img src="/github-metrics.svg" alt="Metrics" width="400">
 <img src="https://github-readme-stats.vercel.app/api?username=stellarisw&show_icons=true" alt="logo" height="160" align="top" width="50%" />
@@ -21,9 +22,6 @@ I'm a R&D Engineer focus on Golang & Rust infra technology.
 
 ## 📊 Activities
 [![Stellarisw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stellarisw&theme=minimal)](https://github.com/StellarisW)
-
-## 📚 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarisW)](https://github.com/StellarisW?tab=repositories)
 
 ## 🎗 Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=stellarisw&color=green)
