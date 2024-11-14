@@ -2,7 +2,7 @@
 
 I'm a R&D Engineer focus on Golang & Rust infra technology.
 
-<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
+<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="right"/>
 
 - 🛠️ I'm currently working on **Rust Infra** in Shanghai.
 - 🌱 I’m currently learning **Web Development** **distributed** , **micro service** , **service mesh**.
