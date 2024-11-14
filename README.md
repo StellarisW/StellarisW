@@ -1,8 +1,8 @@
-# Hey there! I'm StellarisW
+# Hey there! I'm StellarisW <img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="right"/>
 
 I'm a R&D Engineer focus on Golang & Rust infra technology.
 
-<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
 
 - 🛠️ I'm currently working on **Rust Infra** in Shanghai.
 - 🌱 I’m currently learning **Web Development** **distributed** , **micro service** , **service mesh**.
@@ -35,7 +35,6 @@ I'm a R&D Engineer focus on Golang & Rust infra technology.
          width="30"
          height="30">
   </a>
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/stellarisw/stellarisw/master/assets/Night-Coding.gif" align="right"/>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
          alt="Java"
