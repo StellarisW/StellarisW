@@ -4,7 +4,7 @@
 
 I'm a R&D Engineer focus on Golang & Rust infra technology.
 
-- 🛠️ I'm currently working on **Rust Infra** in Shanghai.
+- 🛠️ I'm currently working on in **Shenzhen**.
 - 💬 Ask me about **Golang**, **Rust** technology.
 - ⚡ Fun fact:
   - Snow Mountain hiking.
